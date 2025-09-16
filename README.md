@@ -51,7 +51,7 @@ lead-scoring-backend/
 
 ⚡ Setup
 1. Clone Repository
-git clone https://github.com/<your-username>/lead-scoring-backend.git
+git clone https://github.com/ishanjain1408/lead-scoring-backend.git
 cd lead-scoring-backend
 
 2. Install Dependencies
@@ -62,7 +62,7 @@ npm install
 Create a .env file:
 
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/leadscoring
+MONGO_URI=mongodb+srv://ishanjain1408:4D94pryiVUhQYrlZ@cluster0.rm1yz.mongodb.net/lead-scoring-backend?retryWrites=true&w=majority&appName=Cluster0
 OPENAI_API_KEY=your_openai_api_key
 
 4. Run Server
