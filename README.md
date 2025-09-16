@@ -180,7 +180,7 @@ Low → 10 points
 
 Final Score = rule_score + ai_points
 
-🛠 Deployment (Render/Heroku)
+🛠 Deployment (Render)
 
 Push to GitHub.
 
@@ -188,7 +188,7 @@ Connect repository to Render/Heroku.
 
 Set environment variables (MONGO_URI, OPENAI_API_KEY).
 
-Deploy → API will be live at base URL (e.g., https://lead-scoring.onrender.com).
+Deploy → API will be live at base URL (https://lead-scoring-backend-bfhe.onrender.com).
 
 🧪 Testing
 
